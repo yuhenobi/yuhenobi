@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vasilii aka Yuhenobi
 - 🌍 I live in Limassol, Cyprus
-- 👔 I'm an experienced IT manager, my CV is available [here](https://github.com/yuhenobi/yuhenibi/CV.md)
+- 👔 I'm an experienced IT manager, my CV is available [here](https://github.com/yuhenobi/yuhenobi/blob/main/CV.md)
 - 🏢 Currently I'm trying to do my best as a co-founder in [Wannadocs](https://wannadocs.com/?from=yuhenobi_github)
 - 👨‍💻 Write in Python or PHP if it needs
 - 💬 You can ask me anything about hosting
