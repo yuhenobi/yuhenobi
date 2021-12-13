@@ -17,7 +17,7 @@ Bachelor’s degree in Finance and Credit
 2005 - 2010  
 
 # Work Experience
-### July 2017 - Present: 
+### July 2017 - December 2021: 
 #### [Servers.com](https://servers.com/?from=yuhenobi_cv), Product Manager, Limassol, Cyprus
 * Successfully hired and onboarded UI Designer and remote Tech Writer.
 * Overseeing and coordinating the development, beta, and launch of new software products commissioned.
@@ -106,4 +106,5 @@ Interested in wind- and kitesurfing.
 * [LinkedIn](https://www.linkedin.com/in/yuhenobi/)
 * [Github](https://github.com/yuhenobi/)
 * [Email](mailto:obi@yuhen.org)
+* [Vas3k.club](https://vas3k.club/user/yuhenobi/)
 * [Telegram](https://t.me/yuhenobi)
