@@ -17,6 +17,9 @@ Bachelor’s degree in Finance and Credit
 2005 - 2010  
 
 # Work Experience
+### December 2021 - Present:
+#### [Geniusto UK](https://geniusto.co.uk/?from=yuhenobi_cv), Head of IT Operations and Infrastructure (Remote), Limassol, Cyprus
+
 ### July 2017 - December 2021: 
 #### [Servers.com](https://servers.com/?from=yuhenobi_cv), Product Manager, Limassol, Cyprus
 * Successfully hired and onboarded UI Designer and remote Tech Writer.
