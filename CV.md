@@ -19,6 +19,15 @@ Bachelor’s degree in Finance and Credit
 # Work Experience
 ### December 2021 - Present:
 #### [Geniusto UK](https://geniusto.co.uk/?from=yuhenobi_cv), Head of IT Operations and Infrastructure (Remote), Limassol, Cyprus
+* Implemented a complex audit of infrastructure and security.
+* Completely rebuilt the DevOps team and approach to workflows.
+* Organized and structured documentation, described disaster recovery policy.
+* Helped to integrate release cycle in few teams.
+* Implemented pipelines for build and deploy many services.
+* Moved from "manual snowflakes-servers management" to infrastructure as code.
+* Moved applications to containers and started to delivering them to customers.
+* Reduced a lot of legacy services.
+* Increased internal company collaboration speed and quality.
 
 ### July 2017 - December 2021: 
 #### [Servers.com](https://servers.com/?from=yuhenobi_cv), Product Manager, Limassol, Cyprus
@@ -100,6 +109,7 @@ Share knowledges I have and able to get new from teammates and external sources.
 ## Languages
 * Russian native.
 * English intermediate.
+* Greek beginner.
 
 ## Hobbies
 Fishing, road bicycle, table tennis.
@@ -109,5 +119,4 @@ Interested in wind- and kitesurfing.
 * [LinkedIn](https://www.linkedin.com/in/yuhenobi/)
 * [Github](https://github.com/yuhenobi/)
 * [Email](mailto:obi@yuhen.org)
-* [Vas3k.club](https://vas3k.club/user/yuhenobi/)
 * [Telegram](https://t.me/yuhenobi)
