@@ -18,89 +18,83 @@ Bachelor’s degree in Finance and Credit
 
 # Work Experience
 ### December 2021 - Present:
-#### [Geniusto UK](https://geniusto.co.uk/?from=yuhenobi_cv), Head of IT Operations and Infrastructure (Remote), Limassol, Cyprus
-* Implemented a complex audit of infrastructure and security.
-* Completely rebuilt the DevOps team and approach to workflows.
-* Organized and structured documentation, described disaster recovery policy.
-* Helped to integrate release cycle in few teams.
-* Implemented pipelines for build and deploy many services.
-* Moved from "manual snowflakes-servers management" to infrastructure as code.
-* Moved applications to containers and started to delivering them to customers.
-* Reduced a lot of legacy services.
-* Increased internal company collaboration speed and quality.
+#### [Geniusto](https://geniusto.com/?from=yuhenobi_cv), Head of IT Operations and Infrastructure (Remote), Limassol, Cyprus
+* Conducted a comprehensive initial audit to enhance existing infrastructure and security.
+* Spearheaded the reconstruction of the DevOps team.
+* Cultivated a culture of agenda-driven verbal changes tracking and follow-up within the team.
+* Orchestrated seamless integration of workflows for Incident and Problem Management, Change Management, and Security Updates.
+* Consolidated Disaster Recovery and Information Security policies into the operational framework.
+* Implemented continuous Security Scanning for both internal and external perimeters.
+* Championed the adoption of the OWASP approach across company processes.
+* Organized and streamlined internal documentation for all employees.
+* Facilitated the integration of release cycles within multiple teams.
+* Engineered pipelines for efficient building and deployment of numerous services.
+* Transitioned from manual snowflakes-server management to infrastructure as code.
+* Migrated the majority of applications to containers and initiated customer delivery processes.
+* Elevated internal company collaboration in terms of speed and quality.
+
+##### Key accomplishments:
+* Successfully reduced a lot of legacy services.
+* Achieved a 30% reduction in infrastructure costs.
+* Doubled developers' efficiency through the automation of CI/CD Pipelines for building releases.
+* Attained successful completion of a two-stage audit for ISO27001:2013 certification.
+
+##### Tags:
+docker, kaniko, harbor, ansible, terraform, postgresql, grafana, prometheus, victoriametrics, loki, gitlab, openvas, owasp, aws s3, aws vpc, aws ec2, aws rds, openldap, java, wildfly, php, angular, go
 
 ### July 2017 - December 2021: 
 #### [Servers.com](https://servers.com/?from=yuhenobi_cv), Product Manager, Limassol, Cyprus
-* Successfully hired and onboarded UI Designer and remote Tech Writer.
-* Overseeing and coordinating the development, beta, and launch of new software products commissioned.
-* Collaborating with cross-functional teams on long- and short-term projects coordinating product design, promotion, sales, and customer training.
-* Evaluated, specified, and prioritized customer requests (internal and external) and product features.
-* Managed the entire product life-cycle from conception, requirements definition, development, launch and maintain/improve, with frequent client communication and adjustment along the way.
-* Evaluating new opportunities, such as Fintech solutions and platforms, including customer engagement capabilities.
-* Communicating with sales representatives and customers, evaluating industry needs to design solution-based products.
-* Presenting product information and roadmaps to internal and external stakeholders.
-* Decomposing product initiatives and features into detailed requirements and user stories.
-* Staying current on the competitive landscape, maintaining a competitor matrix for ongoing reference.
-#### Key accomplishments:
-* Defined and brought to market new services (and many features for them) such as Load Balancer, Firewall, Block Storage, SSL Certifications Store, VPN, Public API.
-* Maintained clear, comprehensive Product Documentation.
-* Coordinate redesign and UIkit integration to a major internal business application. 
+* Oversaw and orchestrated the development, beta testing, and launch of new software products.
+* Collaborated with cross-functional teams to lead long- and short-term projects, coordinating product design, promotion, sales, and customer training.
+* Evaluated, specified, and prioritized both internal and external customer requests, as well as product features.
+* Managed the complete product life-cycle, encompassing conception, requirements definition, development, launch, and ongoing maintenance/improvement, with frequent client communication and iterative adjustments.
+* Proactively evaluated new opportunities, particularly in the realm of Fintech solutions and platforms, incorporating customer engagement capabilities.
+* Maintained open communication with sales representatives and customers, assessing industry needs to design solution-based products.
+* Presented comprehensive product information and roadmaps to both internal and external stakeholders.
+* Deconstructed product initiatives and features into detailed requirements and user stories.
+* Kept abreast of the competitive landscape, sustaining a competitor matrix for continuous reference.
+* Successfully recruited and onboarded a remote Technical Writer.
+
+##### Key accomplishments:
+* Defined and brought to market new Servers.com services (and many features for them) such as Load Balancer, Firewall, Block Storage, SSL Certifications Store, VPN, Public API.
+* Spearheaded the creation and maintenance of clear, comprehensive product documentation, ensuring accessibility and understanding for both internal teams and external users.
+* Orchestrated the redesign and seamless integration of UIkit into a major internal business application, enhancing user experience and overall functionality.
 * Achieved deprecation of a big legacy Customer Relationship Management application.
 
 ### March 2015 - June 2017:
 #### [Selectel](https://selectel.ru/?from=yuhenobi_cv), Head of Development, Saint-Petersburg, Russia
-* Effectively built and managed two departments: DevOps Department and Internal Services Developers Department.
-* Successfully hired and onboarded 2 DevOps, 2 Backend, and 1 Frontend Developers.
-* Collected internal services distributed between several departments under the management of one operations team.
-* Collaborated with various stakeholders to ensure an effective development process.
-* Coordinate integration of configuration management through the Ansible.
-* Coordinate integration of application-deployment tools through the Jenkins.
-* Reduced legacy codebase and split a monolithic legacy company core application.
-* Refactored and developed new features for internal services and billing.
-* Closely cooperated with Big Four accounting firms for technical audits.
+* Established and led two departments: the DevOps Department and the Internal Services Developers Department.
+* Consolidated internal services, previously spread across multiple departments, under the cohesive management of a unified operations team.
+* Facilitated collaboration with stakeholders to ensure a streamlined and efficient development process.
+* Orchestrated the seamless integration of configuration management using Ansible.
+* Coordinated the implementation of Continuous Delivery through Jenkins.
 
-### November 2014 - March 2015:
-#### [Selectel](https://selectel.ru/?from=yuhenobi_cv), Chief Marketing Officer, Saint-Petersburg, Russia
-* Managed Marketing Department to achieve Product Roadmap targets.
-* Working closely with Sales and Product Managers to promote services and increase products value.
-* Focusing on the evolution of new business prospects through marketing strategies.
+##### Key accomplishments:
+* Spearheaded initiatives to reduce the legacy code base and executed the strategic splitting of a monolithic legacy core application.
+* Engaged in the refactoring process and implemented new features for internal services and billing, enhancing overall functionality.
+* Fostered close collaboration with prominent Big Four accounting firms, actively participating in technical audits to ensure compliance and excellence.
 
-### November 2010 - October 2014:
-#### [Selectel](https://selectel.ru/?from=yuhenobi_cv), Head of Marketing Department, Saint-Petersburg, Russia
-* Effectively built and managed Marketing Department.
-* Successfully hired and onboarded 3 UI Designers, Tech writer, UA manager, SEO manager.
-* Driving marketing team to achieve and exceed targets.
-* Organized, created, and maintained context advertisement campaigns for a few holding projects through industry research and product knowledge.
-* Performed strategic SEO and SEM needs analysis to drive instructional development initiatives. Reached success for three hosting projects (without traffic cannibalization).
-* Created a unique blog for hosting company with relevant technical articles. 
-* Promote a brand name with a popular company blog on Habr.com.
-* Created a brand mascot.
-* Coordinate "IPv6 Integration" training courses with RIPE NCC for Habr.com users.
-* Coordinate marketing activities with Intel.
+##### Tags:
+ansible, jenkins, git, grafana, prometheus, postgresql, php, python, flask, billing
 
-### February 2010 - November 2010:
+### February 2011 - March 2015:
+#### [Selectel](https://selectel.ru/?from=yuhenobi_cv), Head of Marketing, Saint-Petersburg, Russia
+* Orchestrated the Marketing Department to surpass targets outlined in the Product Roadmap, fostering collaborative efforts with Sales and Product Managers to enhance services and elevate the overall value of the product.
+* Formulated and executed innovative marketing strategies to drive the evolution of new business prospects.
+* Established and efficiently managed the Marketing Department, driving the team to consistently achieve and exceed performance targets.
+* Orchestrated the development, implementation, and maintenance of contextual advertisement campaigns for Selectel and Chipcore (Tehnodom), leveraging industry research and deep product knowledge.
+* Conducted strategic SEO and SEM needs analyses, resulting in the successful execution of three hosting projects without traffic cannibalization.
+* Spearheaded the promotion of a brand name through a popular company blog on Habr.com.
+
+##### Key Accomplishments:
+* Pioneered the creation of a unique technical blog featuring relevant articles.
+* Introduced a distinctive brand mascot, T-Rex, contributing to brand identity.
+* Coordinated "IPv6 Integration" training courses with RIPE NCC for Habr.com users.
+* Orchestrated collaborative marketing activities with Intel, enhancing brand visibility and partnerships.
+
+### February 2010 - February 2011:
 #### [Selectel](https://selectel.ru/?from=yuhenobi_cv), Senior System Engineer, Saint-Petersburg, Russia
-* Promoted from System Engineer to Senior System Engineer within 6 months of being hired for exceeding targeted objectives.
-* Managed an existing team of System Engineers.
 * Achieved assembling two data holes (160x 42U racks) and provisioning thousands of bare metal servers.
-
-### October 2008 - January 2010:
-#### [Infobox.ru](https://infobox.ru/?from=yuhenobi_cv), Technical Support, Saint-Petersburg, Russia
-* Provide helpdesk support and resolve problems to the end user's satisfaction.
-* Monitor and respond quickly and effectively to requests received through the IT helpdesk.
-* Monitor the service desk for tickets assigned to the queue and process first-in first-out based on priority.
-* B2B customers first-line support.
-* Develop Frequently Asked Questions document and many answers templates.
-
-### January 2004 - October 2008:
-#### Accounting Outsourcing LTD, Windows System Administrator, Saint-Petersburg, Russia
-* Configure Windows Server and Active Directory in the existing infrastructure.
-* Supported and maintained all company data and tech infrastructure.
-* Upgraded, repaired, and configured desktop workstations, software, server, and other peripherals.
-* Provided end-user support and technical assistance for client computers.
-* Conducted monthly server maintenance and applied updates and patches.
-* Conducted weekly workstations backups.
-* Designed and diagrammed an internal Frequently Asked Questions document.
 
 ## Additional Skills
 Good communication and empathy skills. Personal responsibility in tasks I’m involved.
