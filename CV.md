@@ -1,8 +1,8 @@
 # Vasilii Borisov
 ## Summary
-Technical Manager / DevOps Team Lead / Infrastructure Expert
+Product Engineer with Infrastructure and DevOps background
 
-Experienced DevOps and Infrastructure Leader with over a decade of experience driving cloud-native and baremetal infrastructure, automation, and compliance. Expert in leading cross-functional teams, migrating legacy systems to IaC, and implementing secure, scalable platforms. Successfully led ISO27001 audits, reduced infrastructure costs, and improved release velocity across multiple organizations.
+Product Engineer with background in Software Development, Infrastructure and DevOps with over a decade of experience driving cloud-native infrastructure, automation, and compliance. Expert in leading cross-functional teams, migrating legacy systems to IaC, and implementing secure, scalable platforms. Successfully led ISO27001 audits, reduced infrastructure costs, and improved release velocity across multiple organizations.
 
 ### Personal information
 * First Name: Vasilii
@@ -30,20 +30,30 @@ Share knowledges I have and able to get new from teammates and external sources.
 
 ## Work Experience
 
-### August 2025 - Present:
-#### [BrainRocket](https://brainrocket.com/?from=yuhenobi_cv), Tech Manager (On-site), Limassol, Cyprus
-Leading infrastructure and DevOps transformation efforts, focusing on scalability, security, and automation.
-Team: Supervised a team of 3 people (2 Senior DevOps engineers and 1 Junior QA).
+### August 2025 - October 2026:
+#### iGaming, Tech Manager (On-site), Limassol, Cyprus
+Leading infrastructure and DevOps transformation efforts, focusing on product approaches, scalability, security, and automation.
 
 ##### Key Achievements:
-* Achieved a 40% reduction in infrastructure costs.
-* By optimizing application code and implementing improved caching, the infrastructure can handle four times the previous load at the same cost.
-* Improved high availability with smart load balancing.
-* Implemented service metrics and dashboards, delivered full transparency for all major stakeholders.
+* Delivered full transparency for all major stakeholders and services high availability.
+* Costs reduction – 40% on infrastructure, 30% on observability platform.
+* Kept documentation up-to-date for projects and team management.
+* Formalized requests – all random incoming tasks became a jobs to be done.
+
+##### Service A:
+* Iteratively transformed an existing service from its initial MVP version into a high-availability, production-grade product.
+* Service high availability has been enhanced through intelligent load balancing. Service performance speed has been improved by establishing a separate presence in the EMEA and APAC regions.
+* Implemented the collection of service and business metrics, which were then used to set up monitoring and alerts, with data visualized on dashboards.
+* Achieved a 40% reduction in infrastructure costs. An infrastructure now can handle 4x load at the same costs because of code refactoring and improved caching.
+
+##### Service B:
+* Implemented and delivered a multi-tenant production high-available grade service (with 10k RPS in peak load) for converting logs to metrics. Service was build from scratch.
+* Implemented a Kubernetes platform for a service with feature-based development.
+* Implemented the collection of service and business metrics, which were then used to set up monitoring and alerts, with data visualized on dashboards.
+* Service integration allows to achieve 30% costs reduction for observability platform.
 
 ##### Tech Stack:
-AWS, Azure, Puppet, Fluentbit, Terraform, Python, Lua, Grafana, OpenResty, Cloudflare.
-
+Major Hyperscale Providers, Kubernetes, Terraform, OpenResty, Cloudflare.
 
 ### December 2021 - July 2024:
 #### [Geniusto](https://geniusto.com/?from=yuhenobi_cv), Head of IT Operations and Infrastructure (Remote), Limassol, Cyprus
